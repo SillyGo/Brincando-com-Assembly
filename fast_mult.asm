@@ -23,3 +23,4 @@ fast_mult:				#
 		bne x11, x0, fast_mult	#	
 		halt
 	
+#
